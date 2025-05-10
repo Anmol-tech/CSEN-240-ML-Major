@@ -284,4 +284,4 @@ pyrightconfig.json
 # MISC
 .DS_Store
 
-/gaf_images/
+/output
